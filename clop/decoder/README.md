@@ -21,3 +21,6 @@ I also wrote a **Python 3** version that should work on any platform, with the e
 
        python3 decodeResource.py encryptedResourceFilePath.bin outputFilename.txt
 
+## Learn more
+
+Read [this blog post.](https://laserkittens.com/ransomware-sucks/)
